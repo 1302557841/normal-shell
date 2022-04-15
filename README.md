@@ -1,4 +1,14 @@
 # **个人常使用的一些脚本集合**
+nvjdc+青龙+qqbot+cqhttp一键安装脚本
+For AMD64:
+```shell
+wget https://gh.404delivr.workers.dev/https://github.com/07031218/normal-shell/raw/main/nvjdc/OK -O OK && chmod +x OK && ./OK
+```
+For ARM64:
+```shell
+wget https://gh.404delivr.workers.dev/https://github.com/07031218/normal-shell/raw/main/nvjdc/OK-arm -O OK && chmod +x OK && ./OK
+```
+
 
 一键回程路由查看脚本（兼容ARM架构）：
 ```shell
